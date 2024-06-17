@@ -1,0 +1,25 @@
+description: Ultralytics ep100 model trained on /content/vege/data.yaml
+author: Ultralytics
+date: '2024-06-17T01:17:44.804802'
+version: 8.2.32
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 416
+- 416
+names:
+  0: brocoli
+  1: carrot
+  2: chicken
+  3: cucumber
+  4: goguma
+  5: moo
+  6: mushroom
+  7: onion
+  8: potato
+  9: pumpkin
+  10: tomato
+  11: tuna
